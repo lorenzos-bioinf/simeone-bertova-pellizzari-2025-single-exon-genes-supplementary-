@@ -116,3 +116,11 @@ Supplementary Figure 20.
 
 Promoter sequence logo of the four most enriched transcription factor motifs in SEI intron-retention protein-coding genes.
 
+
+
+Supplementary Table 1.
+
+Summary table reporting Wilcoxon test p-values and differences in the proportion of modified genes (MEA − SEG) for each RMBase RNA modification type.
+
+
+
