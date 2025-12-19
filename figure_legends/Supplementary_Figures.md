@@ -133,9 +133,10 @@ Promoter sequence logo of the four most enriched transcription factor motifs in 
 
 
 
-Supplementary Table 1.
+Supplementary Table 4.
 
 Summary table reporting Wilcoxon test p-values and differences in the proportion of modified genes (MEA − SEG) for each RMBase RNA modification type.
+
 
 
 
